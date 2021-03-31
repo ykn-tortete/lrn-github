@@ -115,7 +115,7 @@ class App extends StatelessWidget {
                               SizedBox(
                                 width: 75,
                                 child: Text(
-                                  '217万回再生',
+                                  '317万回再生',
                                   style: TextStyle(
                                     fontSize: 11,
                                   ),
